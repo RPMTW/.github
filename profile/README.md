@@ -11,4 +11,4 @@ RPMTW is committed to promoting the Minecraft Chinese community and developing r
 RPMTW 致力於推廣 Minecraft 中文社群並開發相關工具，希望為 Minecraft 玩家提供更好的體驗。  
 
 <p align="center"><img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=SiongSng&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=radical"></p>
-<p align="center"><img src="https://github-readme-stats-one-bice.vercel.app/api/?username=SiongSng&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=radical"></p>
+<!-- <p align="center"><img src="https://github-readme-stats-one-bice.vercel.app/api/?username=SiongSng&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=radical"></p> -->
