@@ -1,5 +1,5 @@
 <a href="https://www.rpmtw.ga">
-  <p align="center"><img src="https://media.discordapp.net/attachments/815819581440262146/877078526480764958/RPMTW.gif" width="250" ></p>
+  <p align="center"><img src="https://raw.githubusercontent.com/RPMTW/RPMTW-Data/main/logo/rpmtw-logo.gif" width="250" ></p>
 </a>
 
 # Welcome to the RPMTW team
